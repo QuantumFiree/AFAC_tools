@@ -1,0 +1,14 @@
+C:\Users\Udenar\Documents\AFACs_tools\ForJoinScripts\ForJoinScripts\bin\Debug\net8.0\ForJoinScripts.exe
+C:\Users\Udenar\Documents\AFACs_tools\ForJoinScripts\ForJoinScripts\bin\Debug\net8.0\ForJoinScripts.deps.json
+C:\Users\Udenar\Documents\AFACs_tools\ForJoinScripts\ForJoinScripts\bin\Debug\net8.0\ForJoinScripts.runtimeconfig.json
+C:\Users\Udenar\Documents\AFACs_tools\ForJoinScripts\ForJoinScripts\bin\Debug\net8.0\ForJoinScripts.dll
+C:\Users\Udenar\Documents\AFACs_tools\ForJoinScripts\ForJoinScripts\bin\Debug\net8.0\ForJoinScripts.pdb
+C:\Users\Udenar\Documents\AFACs_tools\ForJoinScripts\ForJoinScripts\obj\Debug\net8.0\ForJoinScripts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Udenar\Documents\AFACs_tools\ForJoinScripts\ForJoinScripts\obj\Debug\net8.0\ForJoinScripts.AssemblyInfoInputs.cache
+C:\Users\Udenar\Documents\AFACs_tools\ForJoinScripts\ForJoinScripts\obj\Debug\net8.0\ForJoinScripts.AssemblyInfo.cs
+C:\Users\Udenar\Documents\AFACs_tools\ForJoinScripts\ForJoinScripts\obj\Debug\net8.0\ForJoinScripts.csproj.CoreCompileInputs.cache
+C:\Users\Udenar\Documents\AFACs_tools\ForJoinScripts\ForJoinScripts\obj\Debug\net8.0\ForJoinScripts.dll
+C:\Users\Udenar\Documents\AFACs_tools\ForJoinScripts\ForJoinScripts\obj\Debug\net8.0\refint\ForJoinScripts.dll
+C:\Users\Udenar\Documents\AFACs_tools\ForJoinScripts\ForJoinScripts\obj\Debug\net8.0\ForJoinScripts.pdb
+C:\Users\Udenar\Documents\AFACs_tools\ForJoinScripts\ForJoinScripts\obj\Debug\net8.0\ForJoinScripts.genruntimeconfig.cache
+C:\Users\Udenar\Documents\AFACs_tools\ForJoinScripts\ForJoinScripts\obj\Debug\net8.0\ref\ForJoinScripts.dll
